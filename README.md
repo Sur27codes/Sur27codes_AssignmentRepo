@@ -1,23 +1,19 @@
-Assignmnet 2 : IU2141230296_Sur Vaghasiya Submitting Date: 02/08/2024
+# This is my assignment2
 
-Instructions Step 1 : Clone the repository
+Assignmnet 2 : IU2141230296 Sur Vaghasiya
 
-git clone https://github.com/Sur27codes/Sur27codes_AssignmentRepo.git 
+Submitting Date: 19/08/2024
 
-Step 2 : run below command to run the contracts
+# Instructions
 
-=> Running the Contracts Using Remix IDE
+Step 1 : Clone the repository
 
-=> Go to Remix IDE.
+git clone  https://github.com/Sur27codes/Sur27codes_AssignmentRepo.git
 
-=> Create a new file for each smart contract. Copy and paste the Solidity code from this repository into the corresponding file.
+Step 2 : run below command in you terminal.
 
-=> Compile the contract by navigating to the "Solidity Compiler" tab and clicking the "Compile" button.
+# Assignment Level :
+The assignment level for this task is: Medium
 
-=> Deploy the contract by going to the "Deploy & Run Transactions" tab, selecting the appropriate contract, and clicking "Deploy".
-
-=> Interact with the deployed contract using the Remix interface.
-
-Assignment Level The assignment level for this task is: Medium
-
-Code Quality Code quality is maintained throughout the assignment.
+# Code Quality :
+Code quality is maintained throughout the assignment.
